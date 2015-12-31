@@ -22,3 +22,9 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+src/9fans.net/
+src/github.com/
+src/golang.org/
+bin/
+pkg/
